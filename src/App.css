@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-image: url(https://th.bing.com/th?id=OIP.27zsqxLILwXrpcJgvKK79gHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+margin-top: 50px;
+margin-left: 600px;
+width: 300px;
+background-size: cover;
+border-radius: 10px;
+ 
+}
+.pre{
+  margin-top: 10px;
+  border: none;
+  color: aliceblue;
+  background-color: blue;
+  border-radius: 10px;
+  width: 100%;
+}
+ 
+
+
+.h1{
+  color: rgb(51, 48, 48);
+  padding-bottom:30px ;
+}
